@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.h1parent {
+    justify-content: center;
+    display: flex;
+}
+
+h1 {
+    font-size: 64px;
+    background-color:aquamarine;
+    max-width: fit-content;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: black solid;
+}
+
+.pparent {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    max-width: 350px;
+    background-color:aquamarine;
+    border: black solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
