@@ -33,3 +33,21 @@ p {
     padding: 5px;
 }
 
+#TextContainer {
+    text-align: center;
+    background-color: aquamarine;
+    max-width: fit-content;
+    margin: 5px;
+    border: black solid;
+    border-radius: 5px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+.knapp {
+    display: flex;
+    justify-content: center;
+}
+
